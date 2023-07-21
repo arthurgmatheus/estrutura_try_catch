@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Arthur
- *
- */
-module course {
-}
